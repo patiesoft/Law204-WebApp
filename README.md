@@ -3,8 +3,8 @@ Law of Contract Lecture Notes Web Application. FrontEnd Development. CSS, HTML, 
 
 Contributors: '
 
-Phathizwe Vilakazi
-Machawe Shongwe
-Khulekani Matsebula
-Siyabonga Msibi
+Phathizwe Vilakazi, 
+Machawe Shongwe, 
+Khulekani Matsebula, 
+Siyabonga Msibi, 
 
